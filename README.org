@@ -1,11 +1,20 @@
-#+TITLE: Travaux Pratique - Big Data 2024
+#+TITLE: Travaux Pratique - Big Data 2024 - M2 MAPI3 (KMAI9CMA)
 #+AUTHOR: Léo Andéol
 
 * TPs
+3 TPs de 3h chacun.
+A rendre à la fin du TP au lien donné.
 ** Jours:
+Calendrier disponible à [[https://edt.univ-tlse3.fr/calendar2/][ce lien]]
 - [ ] TP1 : 19/01/2024
-- [ ] TP2 : TBD
+- [ ] TP2 : TBD
+- [ ] TP3 : TBD
+** Dépot des rendus:
+- [ ] TP1 : https://pigeonfiles.com/u/kl_kk8z4hpzjq4kb4rhfls
+- [ ] TP2 : TBD
 - [ ] TP3 : TBD
 * Projet
-- Sujet publié pour le dernier TP
+- Sujet publié pour le dernier TP1
+- Groupe de projet à donner à la fin du cours
 - Date du rendu: TBD
+- Date des soutenances: TBD
