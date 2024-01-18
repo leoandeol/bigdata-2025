@@ -1,0 +1,10 @@
+#+TITLE: Travaux Pratique - Big Data 2024
+#+AUTHOR: Léo Andéol
+* TPs
+** Jours:
+- [ ] TP1 : 19/01/2024
+- [ ] TP2 : TBD
+- [ ] TP3 : TBD
+* Projet
+- Sujet publié pour le dernier TP
+- Date du rendu: TBD
