@@ -3,7 +3,7 @@
 
 * TPs
 ** Jours:
-- [ ] TP1 : 19/01/2024
+- [ ] TP1 : 19/01/2024
 - [ ] TP2 : TBD
 - [ ] TP3 : TBD
 * Projet
