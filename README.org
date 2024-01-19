@@ -1,5 +1,7 @@
 #+TITLE: Travaux Pratique - Big Data 2024 - M2 MAPI3 (KMAI9CMA)
-#+AUTHOR: Léo Andéol
+#+AUTHOR: Léo Andéol (IMT/SNCF)
+
+EMAIL : leo.andeol@math.univ-toulouse.fr
 
 * TPs
 3 TPs de 3h chacun.
