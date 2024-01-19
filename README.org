@@ -5,7 +5,7 @@ EMAIL : leo.andeol@math.univ-toulouse.fr
 
 * TPs
 3 TPs de 3h chacun.
-A rendre à la fin du TP au lien donné.
+A rendre le jour du TP (avant minuit) au lien donné.
 ** Jours:
 Calendrier disponible à [[https://edt.univ-tlse3.fr/calendar2/][ce lien]]
 - [ ] TP1 : 19/01/2024
