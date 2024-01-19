@@ -10,6 +10,7 @@ Calendrier disponible à [[https://edt.univ-tlse3.fr/calendar2/][ce lien]]
 - [ ] TP2 : TBD
 - [ ] TP3 : TBD
 ** Dépot des rendus:
+__Inclure NOM et Prénom dans le nom du fichier__
 - [ ] TP1 : https://pigeonfiles.com/u/kl_kk8z4hpzjq4kb4rhfls
 - [ ] TP2 : TBD
 - [ ] TP3 : TBD
@@ -17,4 +18,4 @@ Calendrier disponible à [[https://edt.univ-tlse3.fr/calendar2/][ce lien]]
 - Sujet publié pour le dernier TP1
 - Groupe de projet à donner à la fin du cours
 - Date du rendu: TBD
-- Date des soutenances: TBD
+- Date des soutenances: à voter : https://strawpoll.com/7rnzmB343yO
