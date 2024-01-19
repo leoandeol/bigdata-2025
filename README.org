@@ -16,6 +16,6 @@ Calendrier disponible à [[https://edt.univ-tlse3.fr/calendar2/][ce lien]]
 - [ ] TP3 : TBD
 * Projet
 - Sujet publié pour le dernier TP1
-- Groupe de projet à donner à la fin du cours
+- Groupe de projet: inscrire avant le 19/01/2024 23h59 au lien suivant: https://docs.google.com/spreadsheets/d/1UwpNlYO2ARk3UKVcMxoCWpkTP-MzfAwpXsd2E7hk6uk/edit?usp=sharing
 - Date du rendu: TBD
 - Date des soutenances: à voter : https://strawpoll.com/7rnzmB343yO
