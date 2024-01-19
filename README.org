@@ -10,7 +10,7 @@ Calendrier disponible à [[https://edt.univ-tlse3.fr/calendar2/][ce lien]]
 - [ ] TP2 : TBD
 - [ ] TP3 : TBD
 ** Dépot des rendus:
-__Inclure NOM et Prénom dans le nom du fichier__
+*Inclure NOM et Prénom dans le nom du fichier*
 - [ ] TP1 : https://pigeonfiles.com/u/kl_kk8z4hpzjq4kb4rhfls
 - [ ] TP2 : TBD
 - [ ] TP3 : TBD
