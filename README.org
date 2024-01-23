@@ -8,16 +8,16 @@ EMAIL : leo.andeol@math.univ-toulouse.fr
 A rendre le jour du TP (avant minuit) au lien donné.
 ** Jours:
 Calendrier disponible à [[https://edt.univ-tlse3.fr/calendar2/][ce lien]]
-- [ ] TP1 : 19/01/2024
+- [X] TP1 : 19/01/2024
 - [ ] TP2 : 24/01/2024
 - [ ] TP3 : TBD
 ** Dépot des rendus:
 *Inclure NOM et Prénom dans le nom du fichier*
-- [ ] TP1 : https://pigeonfiles.com/u/kl_kk8z4hpzjq4kb4rhfls
-- [ ] TP2 : TBD
+- [X] TP1 : https://pigeonfiles.com/u/kl_kk8z4hpzjq4kb4rhfls
+- [ ] TP2 : https://pigeonfiles.com/u/4sqhg5mb8d8ububcnsanyh
 - [ ] TP3 : TBD
 * Projet
 - Sujet publié le 24/01/2024
-- Groupe de projet: https://docs.google.com/spreadsheets/d/1UwpNlYO2ARk3UKVcMxoCWpkTP-MzfAwpXsd2E7hk6uk/edit?usp=sharing
+- Groupes de projet: https://docs.google.com/spreadsheets/d/1UwpNlYO2ARk3UKVcMxoCWpkTP-MzfAwpXsd2E7hk6uk/edit?usp=sharing
 - Date du rendu: Veille de la soutenance
-- Date des soutenances: à voter : https://strawpoll.com/7rnzmB343yO
+- Date des soutenances: 07/02/2024
