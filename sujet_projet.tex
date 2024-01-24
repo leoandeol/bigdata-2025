@@ -1,0 +1,88 @@
+\documentclass{article}
+
+% Packages
+\usepackage[T1]{fontenc} % For Latin characters
+\usepackage[utf8]{inputenc} % For UTF-8 encoding
+\usepackage[french]{babel} % For French language support
+\usepackage{titlesec}
+\usepackage{lipsum}
+\usepackage{hyperref} % For email functionality
+\usepackage{graphicx}
+
+% Title
+\title{Projet Deep Learning - Big Data MAPI3 2024}
+\author{
+    L\'eo And\'eol \\
+    \href{mailto:leo.andeol@math.univ-toulouse.fr}{leo.andeol@math.univ-toulouse.fr}
+}
+\date{24 Janvier 2024}
+
+\begin{document}
+
+
+\maketitle
+
+
+
+Ce projet constitue la deuxième partie du projet BigData.
+
+Vous devrez, pour l'évaluation, rendre un notebook python détaillé avec des commentaires justifiant les méthodes utilisées.
+
+Vous devrez aussi présenter vos résultats et les méthodes en 20 minutes lors de la soutenance du 07/02
+
+La performance de vos modèles ne sera pas utilisée comme critère d'évaluation. Nous nous intéresserons uniquement à la méthodologie utilisée, aux comparaisons et analyses produites, ainsi qu'à la variété d'expériences menées.
+Vous pouvez faire la présentation et le notebook en anglais si vous préférez.
+
+
+Vous êtes encouragés à:
+\begin{itemize}
+    \item utiliser les notebooks de TP comme base de travail.
+    \item utiliser Google Colab pour l'entrainement de vos modèles.
+    \item utiliser la bibliothèque keras pour l'entrainement (tensorflow et pytorch sont acceptés).
+\end{itemize}
+
+Vous devez rendre votre notebook avant le 06/02 à 23h59.
+Vous devez nous le transmettre par mail à
+\begin{itemize}
+    \item \href{mailto:leo.andeol@math.univ-toulouse.fr}{leo.andeol@math.univ-toulouse.fr},
+    \item \href{mailto:francois.malgouyres@math.univ-toulouse.fr}{francois.malgouyres@math.univ-toulouse.fr} et
+    \item \href{mailto:francois.bachoc@math.univ-toulouse.fr}{francois.bachoc@math.univ-toulouse.fr}
+\end{itemize}
+en précisant dans l'objet du mail "Projet Deep Learning - Big Data MAPI3 2024".
+
+\section{Sujet:}
+Vous allez, dans ce projet, entraîner plusieurs réseaux de neurones à classifier des paysages. Vous utiliserez pour cela le dataset Landscapes disponible \href{https://github.com/ml5js/ml5-data-and-models/tree/master/datasets/images/landscapes}{ici}.
+
+Il s'agit d'un dataset comprenant 4000 images appartenant à 7 catégories.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=.9\columnwidth]{fig.jpg}
+    \caption{Exemples du dataset}
+    \label{fig:fig}
+\end{figure}
+
+
+Vous devez :
+
+\begin{enumerate}
+    \item Séparer vos données en 2 : un jeu d'apprentissage $80 \%$ et un jeu de validation $20 \%$
+
+    \item Entraîner un réseau de convolutions que vous aurez défini vous même
+
+    \item Utiliser de manière individuelle différentes techniques permettant d'augmenter la capacité de généralisation afin d'améliorer votre modèle (data augmentation, dropout, etc...)
+
+    \item Utiliser un réseau pré-entraîné pour améliorer vos performances
+
+    \item Comparer les résultats produits par 2. 3. et 4. dans un tableau récapitulatif (utilisez le jeu de validation).
+
+    \item Afficher quelques exemples sur lesquels votre réseau se trompe et afficher ses prédictions
+
+    \item Visualiser vos projections dans l'espaces des features à l'aide d'une t-SNE sur un sous ensemble du dataset (quelques centaines d'images).
+
+    \item A l'aide des features calculées par votre réseau, choisir une image au hasard dans le dataset et afficher les 3 images qui sont les plus proches au sens de la distance euclidienne. Vous pourrez, si vous le souhaitez, utiliser les plus proches voisins de Scikit-Learn
+
+\end{enumerate}
+
+
+\end{document}
