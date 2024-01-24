@@ -17,6 +17,6 @@ Calendrier disponible à [[https://edt.univ-tlse3.fr/calendar2/][ce lien]]
 - [ ] TP3 : https://pigeonfiles.com/u/466cf3pha76atr6g__u38n
 * Projet
 - Sujet publié le 24/01/2024  
-- Groupes de projet: https://docs.google.com/spreadsheets/d/1UwpNlYO2ARk3UKVcMxoCWpkTP-MzfAwpXsd2E7hk6uk/edit?usp=sharing
+- Groupes de projet: https://github.com/leoandeol/bigdata-2024/blob/main/planning_soutenance.pdf
 - Date du rendu: Veille de la soutenance
 - Date des soutenances: 07/02/2024
