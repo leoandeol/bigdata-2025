@@ -1,0 +1,88 @@
+\documentclass[11pt,reqno]{amsart}
+
+% pour passer au pdf
+\usepackage{pslatex}
+
+% pour l'usage du francais (compatible avec pdf)
+%\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{times}
+\usepackage[french]{babel}
+\usepackage[a4paper]{geometry}
+
+% pour les maths
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amsbsy}
+\usepackage{amssymb}
+
+% pour les graphiques
+\usepackage{graphicx}
+\usepackage{psfrag}
+\usepackage{epsfig}
+
+% pour les algorithmes
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\floatname{algorithm}{Algorithme}
+\renewcommand{\algorithmicrequire}{\textbf{Entrée:}}
+\renewcommand{\algorithmicensure}{\textbf{Sortie:}}
+\renewcommand{\algorithmicwhile}{\textbf{Tant que}}
+\renewcommand{\algorithmicdo}{\textbf{faire}}
+\renewcommand{\algorithmicendwhile}{\textbf{Fin tant que}}
+
+\def\RR{{\mathbb R}}
+\def\NN{{\mathbb N}}
+
+\newcommand {\PS}[2] {\langle #1 , ~#2 \rangle}
+\newtheorem{projet}{Projet}
+\DeclareMathOperator{\argmin}{Argmin}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% A MODIFIER
+\newcommand {\COURS} {Big Data}
+\newcommand {\FORMATION} {Universit\'e Paul Sabatier \hfill Master MApI3, M2}
+\def\ext{sci}
+\def\lang{Scilab}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%\input{./liste_projets.tex}
+
+\begin{document}
+\addtolength{\baselineskip}{+0.1\baselineskip}
+\pagestyle{empty}
+{\sc \bf \noindent \FORMATION \\
+
+}
+\vspace{0.5cm}
+\begin{center}
+    {\bf \COURS \\
+        \vspace{0.5cm}
+        Soutenances des projets\\
+    }
+\end{center}
+\vspace{1cm}
+
+Durant {\bf la soutenance}, chaque groupe fera une présentation de son travail. Vous disposerez d'un vidéo-projecteur.
+
+\vspace*{0.5cm}
+
+
+Les soutenances seront le mercredi 7 février à partir de 10h00, en U6-202.
+
+\begin{itemize}
+
+    \item{10h00 -} Chiron, Colombel, Cousin, Debbaoui, Marion
+    \item{10h30 -} Dallies, Lumet, Cart-Lamy
+    \item{11h00 -} Turgut, Fourment, Dayan Teixido, Aharmouch
+    \item{11h30 -} Ricci, Bezia, Touil, Fall
+
+    %\item{12h40 -} : projet ?
+\end{itemize}
+
+
+
+
+\end{document}
