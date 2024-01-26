@@ -9,7 +9,7 @@ EMAIL : leo.andeol@math.univ-toulouse.fr
 Calendrier disponible à [[https://edt.univ-tlse3.fr/calendar2/][ce lien]]
 - [X] TP1 : 19/01/2024 à rendre le 19/01/2024
 - [X] TP2 : 24/01/2024 à rendre le 28/01/2024
-- [ ] TP3 : 26/01/2024 à rendre le 28/01/2024 
+- [X] TP3 : 26/01/2024 à rendre le 28/01/2024 
 ** Dépot des rendus:
 *Inclure NOM et Prénom dans le nom du fichier*
 - [X] TP1 : https://pigeonfiles.com/u/kl_kk8z4hpzjq4kb4rhfls
