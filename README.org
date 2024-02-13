@@ -13,8 +13,8 @@ Calendrier disponible à [[https://edt.univ-tlse3.fr/calendar2/][ce lien]]
 ** Dépot des rendus:
 *Inclure NOM et Prénom dans le nom du fichier*
 - [X] TP1 : https://pigeonfiles.com/u/kl_kk8z4hpzjq4kb4rhfls
-- [ ] TP2 : https://pigeonfiles.com/u/4sqhg5mb8d8ububcnsanyh
-- [ ] TP3 : https://pigeonfiles.com/u/466cf3pha76atr6g__u38n
+- [X] TP2 : https://pigeonfiles.com/u/4sqhg5mb8d8ububcnsanyh
+- [X] TP3 : https://pigeonfiles.com/u/466cf3pha76atr6g__u38n
 * Projet
 - Sujet publié le 24/01/2024  
 - Groupes de projet: https://github.com/leoandeol/bigdata-2024/blob/main/planning_soutenance.pdf
