@@ -1,4 +1,4 @@
-#+TITLE: Travaux Pratique - Big Data 2024 - M2 MAPI3 (KMAI9CMA)
+#+TITLE: Travaux Pratique - Big Data 2025 - M2 MAPI3 (KMAI9CMA)
 #+AUTHOR: Léo Andéol (IMT/SNCF)
 
 EMAIL : leo.andeol@math.univ-toulouse.fr
@@ -6,17 +6,16 @@ EMAIL : leo.andeol@math.univ-toulouse.fr
 * TPs
 3 TPs de 3h chacun.
 ** Jours:
-Calendrier disponible à [[https://edt.univ-tlse3.fr/calendar2/][ce lien]]
-- [X] TP1 : 19/01/2024 à rendre le 19/01/2024
-- [X] TP2 : 24/01/2024 à rendre le 28/01/2024
-- [X] TP3 : 26/01/2024 à rendre le 28/01/2024 
+- [X] TP1 : 10/01/2025 à rendre le 17/01/2025
+- [ ] TP2 : 15/01/2025 à rendre le 22/01/2025
+- [ ] TP3 : 24/01/2025 à rendre le 31/01/2025
 ** Dépot des rendus:
 *Inclure NOM et Prénom dans le nom du fichier*
-- [X] TP1 : https://pigeonfiles.com/u/kl_kk8z4hpzjq4kb4rhfls
-- [X] TP2 : https://pigeonfiles.com/u/4sqhg5mb8d8ububcnsanyh
-- [X] TP3 : https://pigeonfiles.com/u/466cf3pha76atr6g__u38n
+- [ ] TP1 : https://pigeonfiles.com/u/e8yk1gsjvxbixvw9xtgsla
+- [ ] TP2 : 
+- [ ] TP3 : 
 * Projet
-- Sujet publié le 24/01/2024  
-- Groupes de projet: https://github.com/leoandeol/bigdata-2024/blob/main/planning_soutenance.pdf
-- Date du rendu: Veille de la soutenance
-- Date des soutenances: 07/02/2024
+- Sujet publié le 10/01/2025  
+- Groupes de projet : 4 par groupe, groupes à annoncer lors de la séance du 15/01
+- Date du rendu : Veille de la soutenance
+- Date des soutenances : 27/01/2025
